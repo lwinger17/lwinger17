@@ -1,4 +1,4 @@
-# 💫 About Me: Currently majoring in Computer Science at Concordia College (2025)
+# 💫 About Me: Currently pursuing my Computer Science degree at Concordia College (2025)
 - 🔭 I’m currently working on a 100 days of C++ challenge
 - 🌱 I’m currently learning how to work with C++ and maybe C#
 - 👯 I’m looking to collaborate on massive projects that are all about creativity

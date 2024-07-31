@@ -1,11 +1,11 @@
 # 💫 About Me: Currently pursuing my Computer Science degree at Concordia College (2025)
-- 🔭 I’m currently working on a 100 days of C++ challenge
-- 🌱 I’m currently learning how to work with C++ and maybe C#
+- 🔭 I’m currently working on learning app development
+- 🌱 I’m currently learning how to work with C# and maybe swift
 - 👯 I’m looking to collaborate on massive projects that are all about creativity
 - 🤔 I’m looking for help with building connections in this field
 - 💬 Ask me about my journey discovering my interest in Computer Science
 - 📫 How to reach me: lwinger@cord.edu
-- ⚡ Fun fact: I was originally a Pre Med student so I have only been coding for around 2 years
+- ⚡ Fun fact: I was originally a Pre Med student so I have only been coding since 2022
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-winger-3842112a3/) 

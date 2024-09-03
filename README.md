@@ -1,6 +1,6 @@
 # 💫 About Me: Currently pursuing my Computer Science degree at Concordia College (2025)
-- 🔭 I’m currently working on learning app development
-- 🌱 I’m currently learning how to work with C# and maybe swift
+- 🔭 I’m currently working on School work
+- 🌱 I’m currently learning how to work with React and React Native
 - 👯 I’m looking to collaborate on massive projects that are all about creativity
 - 🤔 I’m looking for help with building connections in this field
 - 💬 Ask me about my journey discovering my interest in Computer Science

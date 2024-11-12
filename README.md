@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with building connections in this field
 - 💬 Ask me about my journey discovering my interest in Computer Science
 - 📫 How to reach me: lwinger@cord.edu
-- ⚡ Fun fact: I was originally a Pre Med student so I have only been coding since 2022
+- ⚡ Fun fact: I was originally a Pre-Med student for two years until I switched to Computer Science for my remaining 2 years
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-winger-3842112a3/) 

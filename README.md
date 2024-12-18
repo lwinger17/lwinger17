@@ -1,9 +1,9 @@
 # 💫 About Me: Currently pursuing my Computer Science degree at Concordia College (2025)
-- 🔭 I’m currently working on School work
-- 🌱 I’m currently learning how to work with React and React Native
+- 🔭 I’m currently working on school projects
+- 🌱 I’m currently learning how to work with React Native to make a mobile app
 - 👯 I’m looking to collaborate on massive projects that are all about creativity
 - 🤔 I’m looking for help with building connections in this field
-- 💬 Ask me about my journey discovering my interest in Computer Science
+- 💬 Ask me about my journey discovering my interest in this field
 - 📫 How to reach me: lwinger@cord.edu
 - ⚡ Fun fact: I was originally a Pre-Med student for two years until I switched to Computer Science for my remaining 2 years
 

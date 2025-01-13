@@ -10,6 +10,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-winger-3842112a3/) 
 
+![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=link&logoColor=white&url=https://lucaswinger.com/)
+
+
+
+
 # 💻 Tech Stack:
 Here is the updated badge set you requested:
 

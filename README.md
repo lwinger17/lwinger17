@@ -1,4 +1,4 @@
-# 💫 About Me: Currently pursuing my Computer Science degree at Concordia College (2025)
+# 💫 About Me: Currently pursuing my Computer Science degree at Concordia College (May 2025)
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning how to improve my skills with .NET and learn Kotlin for Mobile Development
 - 👯 I’m looking to collaborate on massive projects that are all about creativity

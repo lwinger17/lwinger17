@@ -1,4 +1,4 @@
-# 💫 About Me: Currently pursuing my Computer Science degree at Concordia College (May 2025)
+# 💫 About Me: Full Stack Developer, graduated from Concordia College in 2025
 - 🔭 I’m currently looking for employment
 - 🌱 I’m currently learning how to improve my skills with .NET
 - 👯 I’m looking to collaborate on massive projects that are all about creativity

@@ -1,6 +1,6 @@
-# 💫 About Me: Full Stack Developer, graduated from Concordia College in 2025
-- 🔭 I’m currently looking for employment
-- 🌱 I’m currently learning how to improve my skills with .NET
+# 💫 Full Stack Developer graduate from Concordia College in 2025
+- 🔭 I’m currently looking for employment ( Like everyone else :( )
+- 🌱 I’m currently learning how to improve my skills with the .NET framework
 - 👯 I’m looking to collaborate on massive projects that are all about creativity
 - 🤔 I’m looking for help with building connections in this field
 - 💬 Ask me about my journey discovering my interest in this field
